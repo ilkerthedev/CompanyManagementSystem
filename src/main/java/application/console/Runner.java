@@ -30,7 +30,7 @@ public class Runner {
 
             String a = " =============         Lezzet Group'a Hos Geldiniz         =============";
 
-            System.out.println();
+            System.out.println(a);
             System.out.println("Lutfen Ana Restaurant ve Cafe Bolumlerimiz Icin Seciminizi Giriniz...");
             System.out.println(" 1-Restaurant Bolumu \n 2-Cafe Bolumu \n 0-CIKIS");
             System.out.println();
